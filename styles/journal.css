@@ -27,6 +27,7 @@ li a {
     text-decoration: none;
     margin-left: 1.5em;
     font-weight: 700;
+    color: black;
 }
 .title {
     display: flex;
